@@ -1,6 +1,6 @@
-# 用 C 熟悉演算法
+# Learning algorithms with c (用 C 學習演算法)
 
-## 預計要做的清單
+## Expected to do list (預計要做的清單)
 * bubble sort
 * selection sort
 * insertion sort
